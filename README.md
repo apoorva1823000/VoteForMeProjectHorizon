@@ -21,4 +21,4 @@ Let's say there are three parties :
 
 and let's say there are 4 voters. 3 of them vote for the 1st party and 1 votes for the last one. So as per the condition set in the solidity program the 1st political party will celebrate their victory
 
-Visit this youtube link to watch the live functioning [Youtube Live Demo]()
+Visit this youtube link to watch the live functioning [Youtube Live Demo](https://youtu.be/0qOYKwbTaF4)
